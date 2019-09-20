@@ -1,13 +1,10 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
-
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
-
+<p><span id="a">sai@microsoft</span>:<span id="b">~</span><span id="c">$</span> cd knowabouthim/</p>
+<p>know_about_him<span id="a">@sai</span>:<span id="b">~</span><span id="c">$</span> ls</p>
+<!-- kjsdfhkjdhsfkjdshfkj --><!-- kjsdfhkjdhsfkjdshfkj -->
+<p>About Him<br /><br />Sai is currently a Senior Service Engineer at Microsoft working for past 6 Years. He is pr<span class="lt-line-clamp__raw-line">oven and experienced Lead Engineer in Leading Public Cloud Computing domain, with expertise across multiple industries of small to Massive scale. </span></p>
+<p><span class="lt-line-clamp__raw-line">I love building things which enable teams, customers to achieve more. True Problem solver and expert in turning Ideas to implementation. I am Engineer turned Professional Manager again turned towards Engineering as it is my passion to solve the complicated problems at scale and with quality. Over 13 years of experience in Servers, building solutions at Scale and past 7 years is all Cloud. <br /><br />Specialized in Delivering scalable and elastic solutions on Cloud, Managing Fortune 500 Customers and their Cloud Experience, Product Improvements and Engineering, Automation, Presentations, Migration to Cloud.</span></p>
+<p><span class="lt-line-clamp__raw-line">know_about_him<span id="a">@sai</span>: linkedin.url<br /></span></p>
+<p><span class="lt-line-clamp__raw-line">His linkedin url can be reached from <a href="https://www.linkedin.com/in/creatorsrk/" target="_blank" rel="noopener">here</a> </span></p>
+<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>&nbsp;</p>
 <p>Cheers!</p>
